@@ -20,31 +20,31 @@ tooltipUnlocked,UI,Menu,,,{0} Use {1} ([3F8117]Unlocked[-]),,{0} Verwende {1} ([
 xuiOpeningLoot,UI,Use Prompt,,,Searching...,,Suchen...,Procurando...,Recherche...,Ricerca...,探す...,수색...,Badawczy...,Procurando...,Поиск...,Aranıyor...,正在搜寻...,正在搜尋...,buscando...
 
 
-xuiCompassWindowHUD,UI,,,,Compass Window.,,,,,
+xuiCompassWindowHUD,UI,,,,Compass Window.,,Kompassanzeige,,,
 
-xuiUnspentSkillpointsHUD,UI,,,,You have unspent skillpoints!,,,,,
+xuiUnspentSkillpointsHUD,UI,,,,You have unspent skillpoints!,,Du hast unbenutzte Fähigkeitspunkte!,,,
 
-xuiCurrentDayHUD,UI,,,,Have a nice day!,,,,,
-xuiCurrentTimeHUD,UI,,,,We hope you are having the time of your life!,,,,,
+xuiCurrentDayHUD,UI,,,,Have a nice day!,,Hab einen schönen Tag!,,,
+xuiCurrentTimeHUD,UI,,,,We hope you are having the time of your life!,,Wir hoffen, du hast die beste Zeit deines Lebens!,,,
 
-xuiMapElevationHUD,UI,,,,Elevation.,,,,,
-xuiMapTempHUD,UI,,,,Ambient Temperature.,,,,,
-xuiCoreTempHUD,UI,,,,Player Temperature.,,,,,
+xuiMapElevationHUD,UI,,,,Elevation.,,Höhe,,,
+xuiMapTempHUD,UI,,,,Ambient Temperature.,,Umgebungstemperatur,,,
+xuiCoreTempHUD,UI,,,,Player Temperature.,,Spielertemperatur,,,
 
-xuiCurrentAmmoCountHUD,UI,,,,Current Magazine Size.,,,,,
-xuiTotalAmmoCountHUD,UI,,,,Total Ammunition Stock.,,,,,
+xuiCurrentAmmoCountHUD,UI,,,,Current Magazine Size.,,Aktuelle Magazingröße,,,
+xuiTotalAmmoCountHUD,UI,,,,Total Ammunition Stock.,,Gesamter Munitionsbestand,,,
 
-xuiCarryCapacityHUD,UI,,,,Encumbrance: Current unlocked backpack slots.,,,,,
-xuiLootStageHUD,UI,,,,Lootstage: The higher the stage the better the loot.,,,,,
+xuiCarryCapacityHUD,UI,,,,Encumbrance: Current unlocked backpack slots.,,Belastung: Aktuell freigeschaltete Rucksackplätze,,,
+xuiLootStageHUD,UI,,,,Lootstage: The higher the stage the better the loot.,,Beutestadium: Je höher der Wert, umso bessser die Beute,,,
 
-xuiStealthBarHUD,UI,,,,Stealth.,,,,,
-xuiHealthBarHUD,UI,,,,Health.,,,,,
-xuiStaminaBarHUD,UI,,,,Stamina.,,,,,
-xuiHungerBarHUD,UI,,,,Hunger.,,,,,
-xuiThirstBarHUD,UI,,,,Thirst.,,,,,
+xuiStealthBarHUD,UI,,,,Stealth.,,Tarnung,,,
+xuiHealthBarHUD,UI,,,,Health.,,Gesundheit,,,
+xuiStaminaBarHUD,UI,,,,Stamina.,,Ausdauer,,,
+xuiHungerBarHUD,UI,,,,Hunger.,,Hunger,,,
+xuiThirstBarHUD,UI,,,,Thirst.,,Durst,,,
 
-xuiVehicleHealthBarHUD,UI,,,,Mechanical State.,,,,,
-xuiVehicleFuelHUD,UI,,,,Fuel Level.,,,,,
+xuiVehicleHealthBarHUD,UI,,,,Mechanical State.,,Reparaturstatus,,,
+xuiVehicleFuelHUD,UI,,,,Fuel Level.,,Treibstoff,,,
 
 xuiTwitchIntegrationHUD,UI,,,,Twitch Integration.,,,,,
 xuiQuestTrackerHUD,UI,,,,Quest Tracker.,,,,,
