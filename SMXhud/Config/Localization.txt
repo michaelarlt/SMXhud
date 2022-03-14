@@ -25,7 +25,7 @@ xuiCompassWindowHUD,UI,,,,Compass Window.,,Kompassanzeige,,,
 xuiUnspentSkillpointsHUD,UI,,,,You have unspent skillpoints!,,Du hast unbenutzte Fähigkeitspunkte!,,,
 
 xuiCurrentDayHUD,UI,,,,Have a nice day!,,Hab einen schönen Tag!,,,
-xuiCurrentTimeHUD,UI,,,,We hope you are having the time of your life!,,Wir hoffen, du hast die beste Zeit deines Lebens!,,,
+xuiCurrentTimeHUD,UI,,,,We hope you are having the time of your life!,,"Wir hoffen, du hast die beste Zeit deines Lebens!",,,
 
 xuiMapElevationHUD,UI,,,,Elevation.,,Höhe,,,
 xuiMapTempHUD,UI,,,,Ambient Temperature.,,Umgebungstemperatur,,,
@@ -35,7 +35,7 @@ xuiCurrentAmmoCountHUD,UI,,,,Current Magazine Size.,,Aktuelle Magazingröße,,,
 xuiTotalAmmoCountHUD,UI,,,,Total Ammunition Stock.,,Gesamter Munitionsbestand,,,
 
 xuiCarryCapacityHUD,UI,,,,Encumbrance: Current unlocked backpack slots.,,Belastung: Aktuell freigeschaltete Rucksackplätze,,,
-xuiLootStageHUD,UI,,,,Lootstage: The higher the stage the better the loot.,,Beutestadium: Je höher der Wert, umso bessser die Beute,,,
+xuiLootStageHUD,UI,,,,Lootstage: The higher the stage the better the loot.,,"Beutestadium: Je höher der Wert, umso bessser die Beute",,,
 
 xuiStealthBarHUD,UI,,,,Stealth.,,Tarnung,,,
 xuiHealthBarHUD,UI,,,,Health.,,Gesundheit,,,
